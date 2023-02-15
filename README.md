@@ -2,7 +2,7 @@
 
 ### Bakulski KM, Dou JF, Feinberg JI, Aung MT, Ladd-Acosta C, Volk HE, Newschaffer CJ, Croen LA, Hertz-Picciotto I, Levy SE, Landa R, Feinberg AP, and Fallin MD
 
-Published Article: https://doi.org/10.3389/fnmol.2021.775390
+## Abstract
 
 Background: Pregnancy measures of DNA methylation, an epigenetic mark, may be associated with autism spectrum disorder (ASD) development in children. Few ASD studies have considered prospective designs with DNA methylation measured in multiple tissues and tested overlap with ASD genetic risk loci.
 
@@ -14,3 +14,6 @@ Results: No individual DNA methylation site was associated with ASD at genome-wi
 
 Conclusion: DNA methylation sites nominally associated with later ASD diagnosis in multiple tissues were enriched for ASD risk genes. Our multi-tissue study demonstrates the utility of examining DNA methylation prior to ASD diagnosis.
 
+## Citation Information
+
+Bakulski, K. M., Dou, J. F., Feinberg, J. I., Aung, M. T., Ladd-Acosta, C., Volk, H. E., Newschaffer, C. J., Croen, L. A., Hertz-Picciotto, I., Levy, S. E., Landa, R., Feinberg, A. P., & Fallin, M. D. (2021). Autism-Associated DNA Methylation at Birth From Multiple Tissues Is Enriched for Autism Genes in the Early Autism Risk Longitudinal Investigation. Frontiers in molecular neuroscience, 14, 775390. https://doi.org/10.3389/fnmol.2021.775390. PMID: 34899183
