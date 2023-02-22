@@ -2,6 +2,13 @@
 
 ### Bakulski KM, Dou JF, Feinberg JI, Aung MT, Ladd-Acosta C, Volk HE, Newschaffer CJ, Croen LA, Hertz-Picciotto I, Levy SE, Landa R, Feinberg AP, and Fallin MD
 
+## Citation Information
+
+Bakulski, K. M., Dou, J. F., Feinberg, J. I., Aung, M. T., Ladd-Acosta, C., Volk, H. E., Newschaffer, C. J., Croen, L. A., Hertz-Picciotto, I., Levy, S. E., Landa, R., Feinberg, A. P., & Fallin, M. D. (2021). Autism-Associated DNA Methylation at Birth From Multiple Tissues Is Enriched for Autism Genes in the Early Autism Risk Longitudinal Investigation. Frontiers in molecular neuroscience, 14, 775390. https://doi.org/10.3389/fnmol.2021.775390. PMID: 34899183
+
+This Github repository contains the data management and analytic scripts to produce the following manuscript: [Autism-Associated DNA Methylation at Birth From Multiple Tissues Is Enriched for Autism Genes in the Early Autism Risk Longitudinal Investigation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8655859/)
+
+
 ## Abstract
 
 Background: Pregnancy measures of DNA methylation, an epigenetic mark, may be associated with autism spectrum disorder (ASD) development in children. Few ASD studies have considered prospective designs with DNA methylation measured in multiple tissues and tested overlap with ASD genetic risk loci.
@@ -14,6 +21,11 @@ Results: No individual DNA methylation site was associated with ASD at genome-wi
 
 Conclusion: DNA methylation sites nominally associated with later ASD diagnosis in multiple tissues were enriched for ASD risk genes. Our multi-tissue study demonstrates the utility of examining DNA methylation prior to ASD diagnosis.
 
-## Citation Information
+## Funding
+Funding for the EARLI study was provided by NIH (R01ES016443, PI: CN) and Autism Speaks. The DNA methylation measures were funded by NIH (R01ES017646, PIs: MF and AF). MF, JD, and KB were supported by grants from the National Institute of Environmental Health Sciences (R01 ES025531; R01 ES025574; and P30 ES017885). KB was supported by a grant from the National Institute of Aging (R01 AG055406).
 
-Bakulski, K. M., Dou, J. F., Feinberg, J. I., Aung, M. T., Ladd-Acosta, C., Volk, H. E., Newschaffer, C. J., Croen, L. A., Hertz-Picciotto, I., Levy, S. E., Landa, R., Feinberg, A. P., & Fallin, M. D. (2021). Autism-Associated DNA Methylation at Birth From Multiple Tissues Is Enriched for Autism Genes in the Early Autism Risk Longitudinal Investigation. Frontiers in molecular neuroscience, 14, 775390. https://doi.org/10.3389/fnmol.2021.775390. PMID: 34899183
+## Script Files
+ASD_sens_functions.R: filtering CpG sites and preparing for sensiticity analysis
+
+ASDsensitivity.R: code for sensitivity analysis
+
